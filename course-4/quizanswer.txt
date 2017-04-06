@@ -1,0 +1,31 @@
+1. True
+2. True
+3. Estimate cluster responsibilites, Maximize likehood over parameters
+4. A mixute of gaussians with 6 component clusters             (wrong)
+5. EM is better at capturing clusters of different size
+ 	EM is better at capturing clusters with overlaps           (wrong)
+6.  	
+4 * 3 = 12
+3 * 4 / 2 = 6 * 4 = 24      (wrong)
+
+7. 5 * 4 = 20
+ 4 * 5 = 20 (wrong)
+
+8. 3 and 4 
+9. B  (wrong)
+
+
+5. k-means is equivalent running EM with infinitesmally smalll diagonal
+6. 3 means , 1 weight, (3 * (3+1)/2)  (30) (wrong) now 40
+7. (4 means, 1 weight, (4)) * 5 45
+9. C (wrong)
+
+10 . D
+
+
+1. 0.3007
+2. 4.94239235
+3. 0.67114992
+4. neither
+5. cluster3
+6. 1,2 , 6,7

@@ -1,0 +1,5 @@
+2. N * [classification error]
+3. Yes
+4. Neither
+5. Training error goes down in general
+6. no
